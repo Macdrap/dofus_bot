@@ -1,0 +1,3 @@
+from color_recognition.windowcapture import WindowCapture
+
+WindowCapture.list_window_names()
